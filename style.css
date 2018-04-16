@@ -1,0 +1,48 @@
+
+
+body {
+
+	background-color: #DAA520;
+}
+
+nav{
+	width: 100%;
+	background-color:#183152 ;
+}
+
+nav > ul {
+	margin: 0px;
+	padding: 0px;
+
+
+}
+
+nav li {
+	list-style: none;
+	text-decoration-color: none;
+
+}
+nav > ul > li {
+	position: relative;
+	display: inline;
+	font-weight: bold;
+
+}
+
+nav a {
+	text-decoration: none;
+	display: inline-block;
+	color: #FFF;
+}
+
+nav > ul >li > a {
+	padding: 20px 40px;
+	color: #FFF;
+}
+.mise-en-forme {
+	margin-top: 30px;
+}
+
+#error {
+	color: red;
+} 
